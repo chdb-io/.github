@@ -14,3 +14,4 @@
 * Input&Output support Parquet, CSV, JSON, Arrow, ORC and 60+[more](https://clickhouse.com/docs/en/interfaces/formats) formats
 * Support Python DB API 2.0, [example](examples/dbapi.py)
 * Library bindings for [Python](https://github.com/chdb-io/chdb), [Go](https://github.com/chdb-io/chdb-go), [Rust](https://github.com/chdb-io/chdb-rust), [NodeJS](https://github.com/chdb-io/chdb-node), [Bun](https://github.com/chdb-io/chdb-bun)
+* Apache2 License
