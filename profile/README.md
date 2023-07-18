@@ -16,4 +16,10 @@
 * Library bindings for [Python](https://github.com/chdb-io/chdb), [Go](https://github.com/chdb-io/chdb-go), [Rust](https://github.com/chdb-io/chdb-rust), [NodeJS](https://github.com/chdb-io/chdb-node), [Bun](https://github.com/chdb-io/chdb-bun)
 * Apache2 License
 
+  
+### Introduction
+A brief project introduction from our hero **Alexey Milovidov**, _the father of ClickHouse_.
+
 https://github.com/metrico/libchdb/assets/1423657/162b2a59-1e0d-4d03-b72a-f1d79a0c3d7b
+
+> This clip from the [23.6 Release Webinar](https://youtu.be/cuf_hYn7dqU?t=3059) is included uniquely for Educational purposes.
