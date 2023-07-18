@@ -18,7 +18,7 @@
 
   
 ### Introduction
-A brief project introduction from our hero **Alexey Milovidov**, _the father of ClickHouse_.
+A brief project introduction counrtesy of our hero **Alexey Milovidov**, _the father of ClickHouse_.
 
 https://github.com/metrico/libchdb/assets/1423657/162b2a59-1e0d-4d03-b72a-f1d79a0c3d7b
 
