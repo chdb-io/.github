@@ -1,3 +1,3 @@
 # chDB 
 
-Organizazio banner repository
+chdb-io banner repository
