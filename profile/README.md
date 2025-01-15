@@ -22,8 +22,6 @@
 ### Introduction
 A brief project introduction courtesy of our hero **Alexey Milovidov**, _the father of ClickHouse_.
 
-https://github.com/metrico/libchdb/assets/1423657/162b2a59-1e0d-4d03-b72a-f1d79a0c3d7b
-
 > [ClickHouse 23.6 Release Webinar](https://youtu.be/cuf_hYn7dqU?t=3059) clip included for Educational purposes. All rights belong to their respective owners.
 
 <br> 
